@@ -1,0 +1,5 @@
+venv/
+files/
+build/
+dist/
+Gemstone_price.egg-info/

@@ -1,0 +1,5 @@
+[2023-06-08 22:15:49,171] INFO 21 Data Ingestion is initiated
+[2023-06-08 22:15:57,747] INFO 15 Connection with mongo db is established
+[2023-06-08 22:16:20,582] INFO 24 Dataframe has been loaded in df variable
+[2023-06-08 22:16:20,638] INFO 23 Dataframe has been loaded as dataframe
+[2023-06-08 22:16:27,879] INFO 28 Files are saved in respective folders

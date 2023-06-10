@@ -1,0 +1,10 @@
+[2023-06-10 12:00:35,649] INFO 24 Data Ingestion is initiated
+[2023-06-10 12:00:43,958] INFO 17 Connection with mongo db is established
+[2023-06-10 12:01:11,014] INFO 26 Dataframe has been loaded in df variable
+[2023-06-10 12:01:11,014] INFO 27 Dataframe has been loaded as dataframe
+[2023-06-10 12:01:15,578] INFO 32 Files are saved in respective folders
+[2023-06-10 12:01:16,098] INFO 54 Train and test df is loaded
+[2023-06-10 12:01:16,098] INFO 25 Object Creation for preprocessing is initiated
+[2023-06-10 12:01:16,717] INFO 68 Applying preprocssing obj on train and test df
+[2023-06-10 12:01:16,968] INFO 78 preprocssor pikcle file is created and saved
+[2023-06-10 12:01:16,968] INFO 29 Model training is inititated
