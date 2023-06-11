@@ -1,0 +1,14 @@
+[2023-06-11 12:38:46,018] INFO 24 Data Ingestion is initiated
+[2023-06-11 12:38:54,528] INFO 17 Connection with mongo db is established
+[2023-06-11 12:39:11,609] INFO 26 Dataframe has been loaded in df variable
+[2023-06-11 12:39:11,610] INFO 27 Dataframe has been loaded as dataframe
+[2023-06-11 12:39:17,552] INFO 32 Files are saved in respective folders
+[2023-06-11 12:39:18,280] INFO 55 Train and test df is loaded
+[2023-06-11 12:39:18,280] INFO 25 Object Creation for preprocessing is initiated
+[2023-06-11 12:39:19,133] INFO 69 Applying preprocssing obj on train and test df
+[2023-06-11 12:39:19,162] INFO 79 preprocssor pikcle file is created and saved
+[2023-06-11 12:39:19,184] INFO 30 Model training is inititated
+[2023-06-11 12:43:36,923] INFO 50 The report of the models are 
+ [{'Linear Regression': 0.9367233224733427, 'Decision Tree': 0.9574963455821817, 'Random Forest': 0.9778382418034095, 'AdaBoost': 0.8236351859403297, 'KNN': 0.9726591374598489}]
+[2023-06-11 12:43:37,634] INFO 54 Best model is Random Forest and best score is 0.9778382418034095
+[2023-06-11 12:43:39,309] INFO 60 Model is saved for prediction

@@ -1,0 +1,4 @@
+[2023-06-11 17:12:11,318] INFO 60 Dataframe Gathered
+[2023-06-11 17:12:27,978] INFO 19 preprocessor and model is loaded
+[2023-06-11 17:12:28,107] INFO 21 prediction data is transformed 
+[2023-06-11 17:12:28,108] INFO 27 Exception occured in prediction

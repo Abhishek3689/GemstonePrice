@@ -54,8 +54,10 @@ class ModelTrainer:
             logging.info(f"Best model is {best_model} and best score is {best_score}")
 
             print(f"Best model is {best_model} and best score is {best_score}")
+            BestModel=models[best_model]
+            #BestModel.fit(X_train,y_train)
 
-            save_object(file_path=self.model_config.model_trainer_path,obj=best_model)
+            save_object(file_path=self.model_config.model_trainer_path,obj=BestModel)
             logging.info("Model is saved for prediction")
 
         except Exception as e:
